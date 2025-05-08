@@ -32,7 +32,7 @@ Disingkat	:	CSIRT Blibli.com
 Gedung Sarana Jaya Lt. 2 Jl Budi Kemuliaan 1 No. 1, Gambir, Jakarta Pusat, DKI Jakarta, Indonesia, 10110
  
 2.3.	Zona Waktu
-Jakarta, Indonesia (GMT+7)
+Jakarta, Indonesia (GMT+7) -
 
 2.4.	Nomor Telepon
 +62-21-50881370
