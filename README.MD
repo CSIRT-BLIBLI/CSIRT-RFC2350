@@ -8,3 +8,7 @@ First document of CSIRT Service Statement, Constituent and Contact Information
 Version 2.0
 Changes in format to be in accordance to CERT-EU
 Changes in Contact Information
+
+Version 3.0
+Changes in Organization structure
+Changes in Contact Information
